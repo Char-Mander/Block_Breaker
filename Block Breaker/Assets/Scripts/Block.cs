@@ -8,6 +8,7 @@ public class Block : MonoBehaviour
 
     //Cached reference
     Level level;
+    
 
     private void Start()
     {
@@ -22,6 +23,7 @@ public class Block : MonoBehaviour
 
     private void DestroyBlock()
     {
+        FindObjectOfType<GameStatus>().AddToScore();
         AudioSource.PlayClipAtPoint(breakSound, Camera.main.transform.position);
         Destroy(gameObject);
         level.BlockDestroyed();
