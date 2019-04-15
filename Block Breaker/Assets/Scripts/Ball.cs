@@ -8,18 +8,21 @@ public class Ball : MonoBehaviour
     // Configuration parameters
     [SerializeField] Paddle paddle1;
     [SerializeField] float xPush = 2f;
-    [SerializeField] float yPush = 15f;
+    [SerializeField] float yPush = 10f;
     
     //State
     Vector2 paddleToBallVector;
     private bool hasStarted = false;
-   // private bool startGame = false;
+
+    //Cached component referentes
+    AudioSource myAudioSource;
 
     // Start is called before the first frame update
     void Start()
     {
         //Distancia entre la bola y el paddle
-        paddleToBallVector = transform.position - paddle1.transform.position; 
+        paddleToBallVector = transform.position - paddle1.transform.position;
+        myAudioSource = GetComponent<AudioSource>();
     }
 
     // Update is called once per frame
@@ -30,7 +33,6 @@ public class Ball : MonoBehaviour
         {
             LockBallToPaddle();
             LaunchOnMouseClick();
-          //  startGame = true;
         }
         
     }
@@ -56,7 +58,7 @@ public class Ball : MonoBehaviour
     {
         if (hasStarted)
         {
-            GetComponent<AudioSource>().Play();
+            myAudioSource.Play();
         }
         
     }
