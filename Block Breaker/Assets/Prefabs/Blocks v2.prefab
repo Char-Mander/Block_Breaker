@@ -103,6 +103,16 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7464370840166928119, guid: 08ff8676ff5daad4090dd9a4ccb174b1,
+        type: 3}
+      propertyPath: blockSparklesVFX
+      value: 
+      objectReference: {fileID: 100000, guid: 7d846c02296ef4dc4abff04ce3e5262c, type: 3}
+    - target: {fileID: 7464370840166928119, guid: 08ff8676ff5daad4090dd9a4ccb174b1,
+        type: 3}
+      propertyPath: breakSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 528b6195e50533d4890db0bd0438d1e7, type: 3}
     - target: {fileID: 7464370840166927624, guid: 08ff8676ff5daad4090dd9a4ccb174b1,
         type: 3}
       propertyPath: m_Color.r
@@ -193,6 +203,16 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7464370840166928119, guid: 08ff8676ff5daad4090dd9a4ccb174b1,
+        type: 3}
+      propertyPath: blockSparklesVFX
+      value: 
+      objectReference: {fileID: 100000, guid: 7d846c02296ef4dc4abff04ce3e5262c, type: 3}
+    - target: {fileID: 7464370840166928119, guid: 08ff8676ff5daad4090dd9a4ccb174b1,
+        type: 3}
+      propertyPath: breakSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 528b6195e50533d4890db0bd0438d1e7, type: 3}
     - target: {fileID: 7464370840166927624, guid: 08ff8676ff5daad4090dd9a4ccb174b1,
         type: 3}
       propertyPath: m_Color.r
@@ -283,6 +303,16 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7464370840166928119, guid: 08ff8676ff5daad4090dd9a4ccb174b1,
+        type: 3}
+      propertyPath: blockSparklesVFX
+      value: 
+      objectReference: {fileID: 100000, guid: 7d846c02296ef4dc4abff04ce3e5262c, type: 3}
+    - target: {fileID: 7464370840166928119, guid: 08ff8676ff5daad4090dd9a4ccb174b1,
+        type: 3}
+      propertyPath: breakSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 528b6195e50533d4890db0bd0438d1e7, type: 3}
     - target: {fileID: 7464370840166927624, guid: 08ff8676ff5daad4090dd9a4ccb174b1,
         type: 3}
       propertyPath: m_Color.r
@@ -373,6 +403,16 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7464370840166928119, guid: 08ff8676ff5daad4090dd9a4ccb174b1,
+        type: 3}
+      propertyPath: blockSparklesVFX
+      value: 
+      objectReference: {fileID: 100000, guid: 7d846c02296ef4dc4abff04ce3e5262c, type: 3}
+    - target: {fileID: 7464370840166928119, guid: 08ff8676ff5daad4090dd9a4ccb174b1,
+        type: 3}
+      propertyPath: breakSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 528b6195e50533d4890db0bd0438d1e7, type: 3}
     - target: {fileID: 7464370840166927624, guid: 08ff8676ff5daad4090dd9a4ccb174b1,
         type: 3}
       propertyPath: m_Color.r
@@ -463,6 +503,16 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7464370840166928119, guid: 08ff8676ff5daad4090dd9a4ccb174b1,
+        type: 3}
+      propertyPath: blockSparklesVFX
+      value: 
+      objectReference: {fileID: 100000, guid: 7d846c02296ef4dc4abff04ce3e5262c, type: 3}
+    - target: {fileID: 7464370840166928119, guid: 08ff8676ff5daad4090dd9a4ccb174b1,
+        type: 3}
+      propertyPath: breakSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 528b6195e50533d4890db0bd0438d1e7, type: 3}
     - target: {fileID: 7464370840166927624, guid: 08ff8676ff5daad4090dd9a4ccb174b1,
         type: 3}
       propertyPath: m_Color.r
@@ -553,6 +603,16 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7464370840166928119, guid: 08ff8676ff5daad4090dd9a4ccb174b1,
+        type: 3}
+      propertyPath: blockSparklesVFX
+      value: 
+      objectReference: {fileID: 100000, guid: 7d846c02296ef4dc4abff04ce3e5262c, type: 3}
+    - target: {fileID: 7464370840166928119, guid: 08ff8676ff5daad4090dd9a4ccb174b1,
+        type: 3}
+      propertyPath: breakSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 528b6195e50533d4890db0bd0438d1e7, type: 3}
     - target: {fileID: 7464370840166927624, guid: 08ff8676ff5daad4090dd9a4ccb174b1,
         type: 3}
       propertyPath: m_Color.r
